@@ -1,3 +1,3 @@
 # Stock-manager
- tkinter 划水
+ with tkinter
 
